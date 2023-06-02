@@ -44,4 +44,9 @@ To create a new content type, follow these steps:
 
 Go to the Media Library in the dashboard and upload any related images you want to use for your project. For this particular project, I used images from unsplash.com.
 
-By following these steps, you will have successfully set up Strapi, created a content type, and uploaded media to the library for your project.
+### Step 6: Adding Items
+In the admin dashboard, go to "Content Manager" and click on "Create New Entry" to add new items to the website. Fill in the related fields as "name","shortDescription", "longDescription","price","image"(choose the images from the Media library) and "category".
+
+Save the item then if everything is set click on "publish"
+
+I used Chatgpt for "shortDescription" and "longDescription".
