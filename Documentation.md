@@ -69,3 +69,6 @@ Go to Content-Type Builder and proceed with adding a new content type called "Or
 
 By implementing the Orders content type, we can effectively manage individual orders that are automatically generated whenever we utilize Stripe. Stripe serves as a payment gateway, enabling us to accept payments and effectively handle the e-commerce functionalities of our website.
 ![order](https://github.com/HandanYenial/server/assets/88174651/0a01b1ea-e283-4d97-90cd-f24bc60a7873)
+
+As seen, Strapi has built the backend while we are using the UI
+![backend](https://github.com/HandanYenial/server/assets/88174651/621d189a-4942-411b-bdc9-f4b938ff3d39)
