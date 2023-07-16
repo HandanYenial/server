@@ -1,4 +1,4 @@
-I prepared this documenttaion page for myself, adding the steps I used in this project.
+This documentation page contains the steps used for this project.
 ##Content Management with Strapi
 
 ### Step 1: Installing Strapi
