@@ -3,7 +3,7 @@ This documentation page contains the steps used for this project.
 
 ### Step 1: Installing Strapi
 
-Strapi is a headless CMS (Content Management System) designed for backend management of content. It allows you to centrally manage content similar to platforms like WordPress or Shopify. To get started, follow these steps:
+Strapi is a headless CMS (Content Management System) designed for the backend management of content. It allows you to centrally manage content similar to platforms like WordPress or Shopify. To get started, follow these steps:
 
 Open the terminal and run the following command:
 
@@ -25,7 +25,7 @@ Upon signing up, you will be redirected to the Strapi dashboard. Here, you'll fi
 - **Media Library**: You can store images or videos in this section.
 ![Screenshot from 2023-06-03 23-01-54](https://github.com/HandanYenial/server/assets/88174651/905b2e71-574b-4218-91ad-8de2b1ee5134)
 
-### Step 4: Creating a Content Type
+### Step 4: Creating a Content-Type
 
 To create a new content type, follow these steps:
 
@@ -49,7 +49,7 @@ Go to the Media Library in the dashboard and upload any related images you want 
 
 ### Step 6: Adding Items
 In the admin dashboard, go to "Content Manager" and click on "Create New Entry" to add new items to the website.
-Fill in the related fields as "name","shortDescription", "longDescription","price","image"(choose the images from the Media library) and "category".
+Fill in the related fields as "name", "shortDescription", "longDescription", "price", "image"(choose the images from the Media Library), and "category".
 ![createAnEntry1](https://github.com/HandanYenial/server/assets/88174651/b1a3595f-9919-4319-85a6-6f4c90187be2)
 
 ![createAnEntry2](https://github.com/HandanYenial/server/assets/88174651/4eb78eca-78f9-4c93-adbf-84724b7ef627)
@@ -57,7 +57,7 @@ Fill in the related fields as "name","shortDescription", "longDescription","pric
 
 ![Screenshot from 2023-06-03 23-09-00](https://github.com/HandanYenial/server/assets/88174651/2ea52313-aeec-4f04-bd4f-ab1b33c71228)
 
-Save the item then if everything is set click on "publish"
+Save the item then if everything is set click on "Publish"
 
 I used Chatgpt for "shortDescription" and "longDescription".
 
