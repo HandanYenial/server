@@ -72,3 +72,5 @@ By implementing the Orders content type, we can effectively manage individual or
 
 As seen, Strapi has built the backend while we are using the UI
 ![backend](https://github.com/HandanYenial/server/assets/88174651/621d189a-4942-411b-bdc9-f4b938ff3d39)
+
+
